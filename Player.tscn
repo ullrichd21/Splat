@@ -7,6 +7,7 @@
 extents = Vector2( 32, 32 )
 
 [node name="Player" type="Node2D"]
+editor/display_folded = true
 
 [node name="KinematicBody2D" type="KinematicBody2D" parent="."]
 script = ExtResource( 1 )
